@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-hojilint",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "peerDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint": "^6.7.2",
+    "prettier-eslint": "^9.0.1",
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woohoeon/eslint-config-hojilint.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Hoeon Woo",
+  "license": "MIT",
+  "homepage": "https://github.com/woohoeon/eslint-config-hojilint#readme"
+}
